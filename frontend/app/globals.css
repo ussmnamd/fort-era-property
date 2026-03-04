@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Brand Colors */
+  --color-navy: #0B1829;
+  --color-navy-light: #1a2d47;
+  --color-navy-dark: #060f1a;
+  --color-gold: #B8960C;
+  --color-gold-light: #D4AF37;
+  --color-gold-dark: #8a7109;
+  --color-white: #FAF8F5;
+  --color-gray-100: #F1EFE9;
+  --color-gray-400: #9CA3AF;
+  --color-gray-700: #374151;
+
+  /* Base */
+  --background: #FAF8F5;
+  --foreground: #0B1829;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    color: var(--foreground);
+    background: var(--background);
+    font-family: 'DM Sans', system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+  }
+}
+
+@layer components {
+
+  /* Primary Button - Navy with Gold hover */
+  .btn-primary {
+    @apply inline-flex items-center justify-center px-8 py-4 bg-navy text-white font-medium transition-all duration-300 border-2 border-navy;
+  }
+
+  .btn-primary:hover {
+    @apply bg-transparent text-navy border-gold;
+  }
+
+  /* Secondary Button - Transparent with Gold border */
+  .btn-secondary {
+    @apply inline-flex items-center justify-center px-8 py-4 bg-transparent text-navy font-medium transition-all duration-300 border-2 border-gold;
+  }
+
+  .btn-secondary:hover {
+    @apply bg-gold text-white;
+  }
+
+  /* WhatsApp Button */
+  .btn-whatsapp {
+    @apply inline-flex items-center justify-center px-6 py-3 bg-[#25D366] text-white font-medium transition-all duration-300 rounded-full;
+  }
+
+  .btn-whatsapp:hover {
+    @apply bg-[#128C7E] shadow-lg;
+  }
+
+  /* Section Container */
+  .section-container {
+    @apply w-full px-4 sm:px-6 lg:px-8 xl:px-16 2xl:px-24;
+  }
+
+  /* Card Hover Effect */
+  .card-hover {
+    @apply transition-all duration-300 hover:scale-[1.02] hover:shadow-xl;
+  }
+
+  /* Gold Accent Line */
+  .gold-line {
+    @apply w-16 h-0.5 bg-gold;
+  }
+
+  /* Section Title */
+  .section-title {
+    @apply text-3xl md:text-4xl lg:text-5xl font-serif text-navy mb-4;
+  }
+
+  /* Section Subtitle */
+  .section-subtitle {
+    @apply text-gray-600 text-lg max-w-2xl;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  /* Hide scrollbar */
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}

@@ -1,0 +1,55 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+sanity/node_modules/
+.pnp
+.pnp.js
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+.env*.local
+frontend/.env.local
+backend/.env
+
+# Build outputs
+.next/
+out/
+dist/
+build/
+frontend/.next/
+frontend/out/
+backend/dist/
+backend/build/
+
+# Strapi specific
+backend/.tmp/
+backend/.cache/
+backend/exports/
+backend/public/uploads/
+!backend/public/uploads/.gitkeep
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Testing
+coverage/
+
+# Misc
+*.log

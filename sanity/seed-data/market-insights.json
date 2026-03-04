@@ -1,0 +1,34 @@
+[
+    {
+        "_type": "marketInsight",
+        "title": "DHA Lahore Market Update - Q1 2024",
+        "pricePerMarla": 8500000,
+        "quarterlyChange": 5.2,
+        "insight": "DHA Lahore continues to show strong performance with Phase 6, 7, and 8 leading growth. New development announcements in Phase 9 and Prism have increased investor confidence. Commercial properties remain stable while residential plots show 5-7% quarterly appreciation. Overseas investors are particularly active in the 1 Kanal segment.",
+        "publishedAt": "2024-03-01T10:00:00.000Z"
+    },
+    {
+        "_type": "marketInsight",
+        "title": "Bahria Town Price Surge Analysis",
+        "pricePerMarla": 4500000,
+        "quarterlyChange": 8.5,
+        "insight": "Bahria Town has experienced significant price appreciation driven by infrastructure completion and new commercial developments. The ring road connection has improved accessibility, making it attractive for end-users. Overseas sectors show highest demand with 10-12% quarterly growth. We recommend early entry for maximum returns.",
+        "publishedAt": "2024-02-15T10:00:00.000Z"
+    },
+    {
+        "_type": "marketInsight",
+        "title": "Lake City Emerging as Top Investment Hub",
+        "pricePerMarla": 2800000,
+        "quarterlyChange": 12.3,
+        "insight": "Lake City is witnessing unprecedented growth with the new commercial zone announcement. Early investors are seeing 20%+ annual returns. The society's development pace and affordable entry prices make it ideal for first-time investors. M-2 and M-3 blocks are particularly hot with limited inventory.",
+        "publishedAt": "2024-02-01T10:00:00.000Z"
+    },
+    {
+        "_type": "marketInsight",
+        "title": "Gulberg Commercial Market Stability",
+        "pricePerMarla": 12000000,
+        "quarterlyChange": 2.1,
+        "insight": "Gulberg maintains its position as Lahore's commercial capital with stable prices and consistent rental yields. Main Boulevard properties remain premium with 6-8% rental returns. The completion of the Orange Line Metro has enhanced connectivity, supporting long-term value retention. Ideal for conservative investors seeking stable assets.",
+        "publishedAt": "2024-01-20T10:00:00.000Z"
+    }
+]

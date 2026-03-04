@@ -1,0 +1,158 @@
+[
+    {
+        "_type": "property",
+        "title": "Luxury 1 Kanal House in DHA Phase 6",
+        "slug": {
+            "_type": "slug",
+            "current": "luxury-1-kanal-house-dha-phase-6"
+        },
+        "price": 95000000,
+        "priceType": "negotiable",
+        "phase": "Phase 6",
+        "propertyType": "house",
+        "sizeValue": 1,
+        "sizeUnit": "kanal",
+        "bedrooms": 5,
+        "bathrooms": 6,
+        "description": "Stunning brand new 1 Kanal house featuring modern architecture and premium finishes. Double-height lobby, spacious drawing and dining areas, imported kitchen fittings, smart home automation, and a beautifully landscaped garden. The house includes a servant quarter and driver room.",
+        "investmentHighlights": "Prime location in Phase 6 with high rental demand. Expected rental yield of 4-5% annually. Property values in this area have appreciated 20% in the last year.",
+        "status": "available",
+        "featured": true,
+        "coordinates": {
+            "lat": 31.4697,
+            "lng": 74.4194
+        },
+        "seoTitle": "Luxury 1 Kanal House for Sale in DHA Phase 6 Lahore",
+        "seoDescription": "Premium 5-bedroom house in DHA Phase 6. Modern design, smart home features. Price: 9.5 Crore PKR."
+    },
+    {
+        "_type": "property",
+        "title": "10 Marla Plot in Bahria Town Overseas B",
+        "slug": {
+            "_type": "slug",
+            "current": "10-marla-plot-bahria-overseas-b"
+        },
+        "price": 18000000,
+        "priceType": "fixed",
+        "phase": "Overseas B",
+        "propertyType": "plot",
+        "sizeValue": 10,
+        "sizeUnit": "marla",
+        "bedrooms": 0,
+        "bathrooms": 0,
+        "description": "Ideal 10 Marla residential plot in Bahria Town Overseas B. Located on a 50-feet wide road with all utilities available. Perfect for building your dream home in a secure, family-friendly environment.",
+        "investmentHighlights": "Overseas B is one of the most developed sectors with high occupancy rates. Prices have increased 15% in the past year. Ideal for both construction and investment purposes.",
+        "status": "available",
+        "featured": true,
+        "coordinates": {
+            "lat": 31.3814,
+            "lng": 74.1914
+        },
+        "seoTitle": "10 Marla Plot for Sale in Bahria Town Overseas B",
+        "seoDescription": "10 Marla residential plot on 50ft road in Bahria Town Overseas B. Prime location, all utilities available."
+    },
+    {
+        "_type": "property",
+        "title": "2 Kanal Farmhouse in Lake City M-2 Block",
+        "slug": {
+            "_type": "slug",
+            "current": "2-kanal-farmhouse-lake-city-m2"
+        },
+        "price": 45000000,
+        "priceType": "negotiable",
+        "phase": "M-2 Block",
+        "propertyType": "farmhouse",
+        "sizeValue": 2,
+        "sizeUnit": "kanal",
+        "bedrooms": 4,
+        "bathrooms": 5,
+        "description": "Beautiful farmhouse with expansive gardens and modern living spaces. Features include a private lawn, barbecue area, swimming pool, and fruit trees. Perfect weekend retreat or permanent residence for nature lovers.",
+        "investmentHighlights": "Farmhouses in Lake City are gaining popularity with 25% year-over-year appreciation. Limited supply of farmhouse plots makes this a rare opportunity.",
+        "status": "available",
+        "featured": true,
+        "coordinates": {
+            "lat": 31.3589,
+            "lng": 74.2136
+        },
+        "seoTitle": "2 Kanal Farmhouse for Sale in Lake City Lahore",
+        "seoDescription": "Beautiful 2 Kanal farmhouse in Lake City M-2 Block. Private garden, modern amenities. Price: 4.5 Crore PKR."
+    },
+    {
+        "_type": "property",
+        "title": "4 Marla Commercial Plaza in Gulberg",
+        "slug": {
+            "_type": "slug",
+            "current": "4-marla-commercial-plaza-gulberg"
+        },
+        "price": 85000000,
+        "priceType": "on-request",
+        "phase": "Main Boulevard",
+        "propertyType": "commercial",
+        "sizeValue": 4,
+        "sizeUnit": "marla",
+        "bedrooms": 0,
+        "bathrooms": 4,
+        "description": "Prime commercial building on Gulberg Main Boulevard. 4 floors with basement parking. Currently generating rental income from multiple tenants. High visibility location with heavy foot traffic.",
+        "investmentHighlights": "Commercial properties on Gulberg Main Boulevard offer 6-8% rental yields. This is a blue-chip investment with consistent demand and minimal vacancy risk.",
+        "status": "available",
+        "featured": false,
+        "coordinates": {
+            "lat": 31.5204,
+            "lng": 74.3587
+        },
+        "seoTitle": "Commercial Plaza for Sale on Gulberg Main Boulevard",
+        "seoDescription": "4 Marla commercial building on Gulberg Main Boulevard. Income generating property with basement parking."
+    },
+    {
+        "_type": "property",
+        "title": "3 Bedroom Apartment in DHA Phase 5",
+        "slug": {
+            "_type": "slug",
+            "current": "3-bedroom-apartment-dha-phase-5"
+        },
+        "price": 42000000,
+        "priceType": "fixed",
+        "phase": "Phase 5",
+        "propertyType": "apartment",
+        "sizeValue": 1800,
+        "sizeUnit": "sqft",
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "description": "Modern 3-bedroom apartment in a secure high-rise building. Features include a spacious lounge, American kitchen, servant quarter, and dedicated parking. Building has 24/7 security, backup generator, and elevator.",
+        "investmentHighlights": "Apartments in DHA Phase 5 are in high demand among professionals and small families. Easy to rent out with consistent rental income.",
+        "status": "available",
+        "featured": false,
+        "coordinates": {
+            "lat": 31.4625,
+            "lng": 74.4123
+        },
+        "seoTitle": "3 Bedroom Apartment for Sale in DHA Phase 5",
+        "seoDescription": "1800 sqft modern apartment in DHA Phase 5. 3 beds, secure building, dedicated parking."
+    },
+    {
+        "_type": "property",
+        "title": "5 Marla House in Bahria Town Sector C",
+        "slug": {
+            "_type": "slug",
+            "current": "5-marla-house-bahria-sector-c"
+        },
+        "price": 22000000,
+        "priceType": "negotiable",
+        "phase": "Sector C",
+        "propertyType": "house",
+        "sizeValue": 5,
+        "sizeUnit": "marla",
+        "bedrooms": 3,
+        "bathrooms": 4,
+        "description": "Well-maintained 5 Marla house perfect for small families. Features 3 bedrooms with attached baths, TV lounge, modern kitchen, and a small lawn. Close to parks and commercial areas.",
+        "investmentHighlights": "Affordable entry point into Bahria Town. Houses in Sector C offer good rental yields and steady appreciation. Ideal for first-time buyers.",
+        "status": "available",
+        "featured": true,
+        "coordinates": {
+            "lat": 31.3756,
+            "lng": 74.1856
+        },
+        "seoTitle": "5 Marla House for Sale in Bahria Town Sector C",
+        "seoDescription": "Affordable 3-bedroom house in Bahria Town Sector C. Perfect for small families. Price: 2.2 Crore PKR."
+    }
+]

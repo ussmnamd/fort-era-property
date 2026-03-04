@@ -1,0 +1,62 @@
+[
+    {
+        "_type": "society",
+        "name": "DHA Lahore",
+        "slug": {
+            "_type": "slug",
+            "current": "dha-lahore"
+        },
+        "overview": "Defence Housing Authority (DHA) Lahore is Pakistan's most prestigious and well-planned residential community. Spanning multiple phases across the city, DHA offers world-class amenities, secure environment, and excellent investment opportunities. The society features commercial areas, parks, schools, hospitals, and a vibrant community lifestyle.",
+        "investmentInsight": "DHA Lahore consistently shows 15-20% annual appreciation. Phases 6, 7, and 8 are currently hot investment spots with maximum growth potential. Commercial plots and prime location residential plots offer the best ROI.",
+        "familyInsight": "With top-tier schools like LGS, Beaconhouse, and Roots, along with DHA Hospital and numerous parks, DHA is perfect for families. The secure environment, clean streets, and community events make it ideal for raising children.",
+        "averagePricePerMarla": 8500000,
+        "appreciationPercent": 18,
+        "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13628.123456789012",
+        "featured": true
+    },
+    {
+        "_type": "society",
+        "name": "Bahria Town Lahore",
+        "slug": {
+            "_type": "slug",
+            "current": "bahria-town-lahore"
+        },
+        "overview": "Bahria Town Lahore is a master-planned community offering a luxurious lifestyle at affordable prices. Known for its iconic landmarks, beautiful mosques, and modern infrastructure, Bahria Town provides a complete living experience with commercial areas, schools, hospitals, and entertainment venues.",
+        "investmentInsight": "Bahria Town offers one of the best value propositions in Lahore with 12-16% annual appreciation. Overseas sectors and commercial plots in central locations show the highest returns. The society's consistent development maintains strong investor confidence.",
+        "familyInsight": "Families love Bahria Town for its Grand Mosque, shopping malls, cinemas, and world-class security. The society hosts regular community events, has excellent schools, and provides a modern, comfortable lifestyle for all age groups.",
+        "averagePricePerMarla": 4500000,
+        "appreciationPercent": 14,
+        "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13628.987654321098",
+        "featured": true
+    },
+    {
+        "_type": "society",
+        "name": "Lake City",
+        "slug": {
+            "_type": "slug",
+            "current": "lake-city"
+        },
+        "overview": "Lake City is a rapidly developing housing society located on Raiwind Road. It offers a peaceful environment away from the city center while maintaining good connectivity. The society features wide roads, modern infrastructure, and a growing commercial sector.",
+        "investmentInsight": "Lake City is an emerging hotspot with 20-25% annual appreciation potential. Being in the early development phase, entry prices are lower with higher upside potential. M-2 and M-3 blocks are particularly promising.",
+        "familyInsight": "Ideal for families seeking a quieter lifestyle with modern amenities. The society has schools, parks, and is developing its commercial infrastructure. The less congested environment appeals to families wanting a suburban feel.",
+        "averagePricePerMarla": 2800000,
+        "appreciationPercent": 22,
+        "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13628.111122223333",
+        "featured": true
+    },
+    {
+        "_type": "society",
+        "name": "Gulberg",
+        "slug": {
+            "_type": "slug",
+            "current": "gulberg"
+        },
+        "overview": "Gulberg is Lahore's premier commercial and residential hub. Located in the heart of the city, it combines business districts with upscale residential areas. Known for Liberty Market, Hafeez Center, and Main Boulevard, Gulberg is the city's commercial heartbeat.",
+        "investmentInsight": "Gulberg offers stable, premium investments with 10-15% appreciation. Commercial properties and Gulberg Residencia show consistent demand. The central location ensures perpetual value retention.",
+        "familyInsight": "Perfect for families wanting urban convenience. Everything is within walking distance - shopping, dining, entertainment. Top schools and hospitals are nearby, though it's busier than suburban societies.",
+        "averagePricePerMarla": 12000000,
+        "appreciationPercent": 12,
+        "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13628.444455556666",
+        "featured": false
+    }
+]

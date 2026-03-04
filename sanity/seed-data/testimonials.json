@@ -1,0 +1,37 @@
+[
+    {
+        "_type": "testimonial",
+        "clientName": "Ahmed Hassan",
+        "location": "Karachi, Pakistan",
+        "review": "Working with this property team was an absolute pleasure. They helped me find the perfect 10 Marla plot in DHA Lahore for my family. The entire process was smooth, transparent, and professional. I highly recommend their services to anyone looking for real estate in Lahore.",
+        "featured": true
+    },
+    {
+        "_type": "testimonial",
+        "clientName": "Sarah Khan",
+        "location": "London, UK",
+        "review": "As an overseas Pakistani, I was nervous about investing in property back home. This team made it incredibly easy. They provided virtual tours, handled all documentation, and kept me updated throughout. I now own a beautiful house in Bahria Town thanks to them!",
+        "featured": true
+    },
+    {
+        "_type": "testimonial",
+        "clientName": "Muhammad Ali",
+        "location": "Dubai, UAE",
+        "review": "Excellent market knowledge and honest advice. They didn't just try to sell me anything - they understood my investment goals and found properties that matched my criteria. The ROI on my Lake City investment has already exceeded expectations.",
+        "featured": true
+    },
+    {
+        "_type": "testimonial",
+        "clientName": "Fatima Zahra",
+        "location": "Lahore, Pakistan",
+        "review": "I was looking for a family home and they showed me options that actually fit my budget and requirements. No time wasted on unsuitable properties. Found our dream home in just 3 weeks!",
+        "featured": false
+    },
+    {
+        "_type": "testimonial",
+        "clientName": "Imran Shah",
+        "location": "Toronto, Canada",
+        "review": "The WhatsApp support is fantastic! Being in a different time zone, I appreciated their quick responses and willingness to accommodate my schedule for video calls. Made the entire buying process stress-free.",
+        "featured": false
+    }
+]
